@@ -50,3 +50,4 @@ create all functionality in the fulfillRandomWords function 2. Use the random nu
 3. fill out complete JSON Metadata for each NFT and include its IPFS image hash for its image: section
 
 4. Pass in to the constructor an array of completed NFT metadata's in the correct order according to the smart contract
+# NBA_NFT
